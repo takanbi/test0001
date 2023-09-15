@@ -11,13 +11,18 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  h1 {
-    font-size: 3em;
-    color: white;
-    font-family: "Anton", sans-serif;
-  }
-  p {
-    font-family: "Josefin Sans", sans-serif;
+  section {
+      width: 75%;
+    h1 {
+      font-size: 3em;
+      color: white;
+      font-family: "Anton", sans-serif;
+    }
+    p {
+      font-family: "Josefin Sans", sans-serif;
+      margin-top: 3em;
+      color: white;
+    }
   }
 }
 
