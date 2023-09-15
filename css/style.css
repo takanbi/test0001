@@ -23,5 +23,10 @@
 #container h1 {
   font-size: 3em;
   color: white;
+  font-family: "Anton", sans-serif;
+}
+
+#container p {
+  font-family: "Josefin Sans", sans-serif;
 }
 /*# sourceMappingURL=style.css.map */
